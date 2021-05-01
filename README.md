@@ -3,7 +3,7 @@ Programs created for data collection and analysis of IMPACT Cooling Products: CS
 
 ***
 
-### [Fundamental IMPACT Study](https://github.com/katie-plese)
+### [Fundamental IMPACT Study](https://github.com/katie-plese/IMPACT-Cooling/tree/main/Fundamental%20IMPACT%20Study)
 <dl>
 <dd>Fundamental thermofluidic study to characterize heat transfer and flow through a jet impingement cooling device.</dd>
 </dl>
